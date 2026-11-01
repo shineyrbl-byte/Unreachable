@@ -1,5 +1,7 @@
 # ♿ Unreachable
 
+**▶ Play it: https://unreachable-delta.vercel.app**
+
 **A game about accessible design.** Booking a flu shot online takes most people one minute. Four people try today, on a website that wasn't built for them. **Feel the barriers. Then fix them.**
 
 | Person | Barrier | Booking step |
