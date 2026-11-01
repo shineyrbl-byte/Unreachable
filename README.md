@@ -1,6 +1,8 @@
 # ♿ Unreachable
 
-**▶ Play it: https://unreachable-delta.vercel.app**
+**▶ Play it: https://unreachable-delta.vercel.app** · **🎬 Demo video: https://youtu.be/i7fQ6_e6S2E**
+
+[![Watch the demo](https://img.youtube.com/vi/i7fQ6_e6S2E/hqdefault.jpg)](https://youtu.be/i7fQ6_e6S2E)
 
 **A game about accessible design.** Booking a flu shot online takes most people one minute. Four people try today, on a website that wasn't built for them. **Feel the barriers. Then fix them.**
 
