@@ -1,5 +1,7 @@
 # ♿ Unreachable
 
+> 🏅 **Honorable Mention, [Girls Who Code HHS Hackathon 2026](https://girls-who-code-hhs-hackathon-2026.devpost.com/)**: "Level up your gameplay, level up the world. Build a game for social good."
+
 **▶ Play it: https://unreachable-delta.vercel.app** · **🎬 Demo video: https://youtu.be/i7fQ6_e6S2E**
 
 [![Watch the demo](https://img.youtube.com/vi/i7fQ6_e6S2E/hqdefault.jpg)](https://youtu.be/i7fQ6_e6S2E)
